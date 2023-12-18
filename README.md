@@ -17,7 +17,7 @@ O desafio principal é automatizar o processo de extração do dados do site CNE
 
 Primeiro, é necessário a criação de uma virtual env 
 
-- Comando para a criação do virtual env: `pip -m venv venv`
+- Comando para a criação do virtual env: `python -m venv venv`
 - Ativar o venv com o comando:  `venv\Scripts\activate` no Windows.
 - Depois de ativada, basta instalar as dependências do projeto que já estão inclusas no arquivo `requirements.txt`, com o comando: `pip install -r requirements.txt`
 - Com as dependências prontas, rodamos o arquivo robot com o comando: `robot ./tests`. Caso esse comando não funcionar, certifique-se de que instalou o RobotFramework.
