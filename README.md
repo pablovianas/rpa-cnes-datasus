@@ -1,5 +1,3 @@
-# Teste técnico Prime Robot - Desenvolvedor Pl
-
 # Desafio 
 
 O desafio principal é automatizar o processo de extração do dados do site CNES Datasus
